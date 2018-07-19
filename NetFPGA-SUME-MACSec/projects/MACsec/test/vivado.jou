@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:42 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Fri Jul 28 12:46:01 2017
+# Process ID: 29520
+# Current directory: /root/NetFPGA-SUME-live/projects/MACsec/test
+# Command line: vivado -mode gui -source ../../../projects/MACsec/hw/tcl/MACsec_sim.tcl -tclargs both_crypto_test
+# Log file: /root/NetFPGA-SUME-live/projects/MACsec/test/vivado.log
+# Journal file: /root/NetFPGA-SUME-live/projects/MACsec/test/vivado.jou
+#-----------------------------------------------------------
+start_gui
+source ../../../projects/MACsec/hw/tcl/MACsec_sim.tcl
+launch_simulation -simset sim_1 -mode behavioral -noclean_dir
+source top_tb.tcl
+add_wave {{/top_tb/top_sim/nf_datapath_0/crypto_1/inst}} 
+restart
+run 10 us
+run 10 us
+run 10 us

@@ -1,0 +1,184 @@
+Vivado Simulator 2016.4
+Time resolution is 100 fs
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module top_tb.top_sim.identifier.inst.axi_mem_module.blk_mem_gen_v8_3_5_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+Reset Deasserted
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+1010 ns. Info: barrier request transactor
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Failure: bad input: expected an integer: 1501242397253079040
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+$finish called at time : 1017 ns : File "/root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd" Line 209
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module top_tb.top_sim.identifier.inst.axi_mem_module.blk_mem_gen_v8_3_5_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+Reset Deasserted
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+Note: Time is 1000 ns.
+Time: 1 us  Iteration: 9  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 1 barriers
+1010 ns. Info: barrier request transactor
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1010 ns.
+Time: 1010 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1015 ns.
+Time: 1015 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier request: expecting 0 pkts
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Failure: bad input: expected an integer: 1501242397253079040
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+$finish called at time : 1017 ns : File "/root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd" Line 209
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 2 barriers
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 2 barriers
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 2 barriers
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: barrier complete
+Note: Time is 1017 ns.
+Time: 1017 ns  Iteration: 2  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 2 barriers
+1017 ns.Info: barrier complete transactor
+Note: Time is 1025 ns.
+Time: 1025 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1025 ns.
+Time: 1025 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_2/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1025 ns.
+Time: 1025 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_3/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1025 ns.
+Time: 1025 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_4/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: 0 ingress packets
+Note: Time is 1025 ns.
+Time: 1025500 ps  Iteration: 0  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Sending next ingress packet
+Note: Time is 1030 ns.
+Time: 1030 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_0/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
+Info: Input file contains:
+Info: 2 barriers
+Note: Time is 1030 ns.
+Time: 1030 ns  Iteration: 6  Process: /top_tb/top_sim/axis_sim_stim_1/U0/line__90  File: /root/NetFPGA-SUME-live/projects/MACsec/hw/project/MACsec.srcs/sources_1/ip/axis_sim_stim_ip0/hdl/axis_sim_stim.vhd
